@@ -1,0 +1,77 @@
+C:\Users\marce\source\repos\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\TFComplejidadAlgoritmica.exe.config
+C:\Users\marce\source\repos\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\TFComplejidadAlgoritmica.exe
+C:\Users\marce\source\repos\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\TFComplejidadAlgoritmica.pdb
+C:\Users\marce\source\repos\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\EntityFramework.dll
+C:\Users\marce\source\repos\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marce\source\repos\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\GMap.NET.Core.dll
+C:\Users\marce\source\repos\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\marce\source\repos\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\marce\source\repos\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marce\source\repos\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\System.Data.SQLite.dll
+C:\Users\marce\source\repos\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\marce\source\repos\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\marce\source\repos\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\EntityFramework.xml
+C:\Users\marce\source\repos\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marce\source\repos\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marce\source\repos\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\System.Data.SQLite.xml
+C:\Users\marce\source\repos\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\marce\source\repos\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.csprojAssemblyReference.cache
+C:\Users\marce\source\repos\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.Form1.resources
+C:\Users\marce\source\repos\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.Properties.Resources.resources
+C:\Users\marce\source\repos\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.csproj.GenerateResource.cache
+C:\Users\marce\source\repos\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.csproj.CopyComplete
+C:\Users\marce\source\repos\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.exe
+C:\Users\marce\source\repos\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.pdb
+C:\Users\Alonzo\Desktop\complejidad\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\TFComplejidadAlgoritmica.exe.config
+C:\Users\Alonzo\Desktop\complejidad\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\TFComplejidadAlgoritmica.exe
+C:\Users\Alonzo\Desktop\complejidad\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\TFComplejidadAlgoritmica.pdb
+C:\Users\Alonzo\Desktop\complejidad\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\EntityFramework.dll
+C:\Users\Alonzo\Desktop\complejidad\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alonzo\Desktop\complejidad\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\GMap.NET.Core.dll
+C:\Users\Alonzo\Desktop\complejidad\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Alonzo\Desktop\complejidad\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Alonzo\Desktop\complejidad\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alonzo\Desktop\complejidad\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\System.Data.SQLite.dll
+C:\Users\Alonzo\Desktop\complejidad\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Alonzo\Desktop\complejidad\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Alonzo\Desktop\complejidad\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\EntityFramework.xml
+C:\Users\Alonzo\Desktop\complejidad\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alonzo\Desktop\complejidad\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alonzo\Desktop\complejidad\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\System.Data.SQLite.xml
+C:\Users\Alonzo\Desktop\complejidad\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Alonzo\Desktop\complejidad\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.csprojAssemblyReference.cache
+C:\Users\Alonzo\Desktop\complejidad\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.Form1.resources
+C:\Users\Alonzo\Desktop\complejidad\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.Properties.Resources.resources
+C:\Users\Alonzo\Desktop\complejidad\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.csproj.GenerateResource.cache
+C:\Users\Alonzo\Desktop\complejidad\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.csproj.CoreCompileInputs.cache
+C:\Users\Alonzo\Desktop\complejidad\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.csproj.CopyComplete
+C:\Users\Alonzo\Desktop\complejidad\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.exe
+C:\Users\Alonzo\Desktop\complejidad\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.pdb
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\TFComplejidadAlgoritmica.exe.config
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\TFComplejidadAlgoritmica.exe
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\TFComplejidadAlgoritmica.pdb
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\EntityFramework.dll
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\GMap.NET.Core.dll
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\System.Data.SQLite.dll
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\EntityFramework.xml
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\System.Data.SQLite.xml
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.csprojAssemblyReference.cache
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.Form1.resources
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.Properties.Resources.resources
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.csproj.GenerateResource.cache
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.csproj.CoreCompileInputs.cache
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.csproj.CopyComplete
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.exe
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.pdb
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.frmCosto.resources
+C:\Users\marce\Downloads\Complejidad Algorítmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\TFComplejidadAlgoritmica\obj\Debug\TFComplejidadAlgoritmica.frmMain.resources
